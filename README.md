@@ -25,6 +25,4 @@ It provides a clean and responsive design to showcase products, brand details, a
 
 ## 🌐 Live Demo
 
-👉 ([Fashion-Store](https://fashionjunction.netlify.app/))
-
-👉 Do you also want me to write a **short GitHub project description** (like 1–2 lines that appear under the repo title) for this one too?
+👉 [Fashion-Store](https://fashionjunction.netlify.app/)
