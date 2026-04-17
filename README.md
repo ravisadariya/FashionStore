@@ -1,28 +1,35 @@
-
 # 👗 FashionStore
 
-**FashionStore** is a simple, stylish static website for an online fashion brand.
-It provides a clean and responsive design to showcase products, brand details, and contact information.
+## 📌 Overview
+FashionStore is a responsive multi-page website designed to showcase an online fashion brand. It highlights products, brand information, and contact details through a clean and modern user interface.
 
 ---
 
-## 🚀 Features
-
-* 🏠 **Homepage** – Modern landing page with fashion highlights
-* 👕 **Product Page** – Display fashion items with details
-* 📖 **About Page** – Introduces the brand and its story
-* ✉️ **Contact Page** – Connect with the store easily
-* 📱 **Responsive Design** – Works seamlessly on desktop and mobile
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- Responsive Design (Media Queries)  
+- Netlify (Deployment)  
 
 ---
 
-## 🛠️ Tech Stack
-
-* **HTML5** – Page structure
-* **CSS3** – Styling and responsive layout
+## ✨ Features
+- 🏠 Structured homepage with modern layout  
+- 👕 Product showcase with organized design  
+- 📖 About page with brand details  
+- ✉️ Contact page for user interaction  
+- 📱 Fully responsive design across devices  
+- 🎨 Clean and consistent UI styling  
 
 ---
 
-## 🌐 Live Demo
+## 🚀 Live Demo
+👉 [Fashion Store](https://fashionjunction.netlify.app/)
 
-👉 [Fashion-Store](https://fashionjunction.netlify.app/)
+---
+
+## ⚙️ Installation & Setup
+```bash
+git clone https://github.com/ravisadariya/FashionStore.git
+cd FashionStore
+open index.html
